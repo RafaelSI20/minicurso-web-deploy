@@ -5,7 +5,10 @@ export function Home() {
 
     return (
         <>
-            TODO home
+            <div className="outer">
+                <div>1</div>
+                <div>2</div>
+            </div>
         </>
     )
 }
