@@ -56,9 +56,6 @@ export function Home() {
     border-solid border-green-500 w-8rem h-4rem m-2 flex-grow-1
     `
 
-
-
-
     return (
         <>
             <div className={`w-full h-screen flex flex-row m-2 p-4`}>
